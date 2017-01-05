@@ -8,7 +8,7 @@ All credit goes to [ezekg](https://github.com/ezekg) for creating this, i mearly
 
 ## Why?
 I'm a lazy programmer who was tired of checking flight prices … and I really wanted
-to try out Twilio and [blessed](https://github.com/chjj/blessed/). ¯\\\_(ツ)\_/¯
+to try out Twilio and [blessed](https://github.com/chjj/blessed/). `¯\\\_(ツ)\_/¯`
 
 ## Installation
 Since I would rather not get in trouble for publishing this tool to npm, you can
